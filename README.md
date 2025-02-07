@@ -5,6 +5,9 @@ The **Comments Package** is a powerful and flexible solution for adding comment 
 
 This package allows users to add comments to any model in your application with minimal setup. It is ideal for building forums, blogs, ticketing systems, or any other application requiring a robust commenting system.
 
+![Package Banner](comment-component.jpeg)
+![Package Banner](new-comment.jpeg)
+
 ---
 
 ## Features
