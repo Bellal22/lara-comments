@@ -1,0 +1,27 @@
+{
+    "name": "bellal22/comments",
+    "description": "lightweight laravel package to add Comments and reply Features to your application",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bellal22\\Comments\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bellal22\\Comments\\CommentsServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Bellal",
+            "email": "bellalhassen89@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
